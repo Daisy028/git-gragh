@@ -1,0 +1,10 @@
+.github/
+.vscode/
+out/*.d.ts
+out/*.js.map
+resources/demo.gif
+src/
+web/
+.gitignore
+azure-pipelines.yml
+tslint.json
